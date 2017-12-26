@@ -1,0 +1,103 @@
+#logo {
+	width: 480px;
+	height: 320px;
+	padding: 10px;
+	margin: auto;
+	
+}
+
+#text {
+	
+	
+}
+
+p {
+	font-family: Calibri;
+	font-weight: bold;
+}
+
+#short-info {
+	font-family: Calibri;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	margin: 10px;
+	
+}
+
+#container_top
+{
+  text-align: center;
+  padding: 15px;  
+}
+#left-div_top
+{
+  display: inline-block;
+  max-width: 300px;
+  text-align: left;
+  padding: 30px;
+  border-radius: 3px;
+  margin: 15px;
+  vertical-align: top;
+}
+#right-div_top
+{
+  display: inline-block;
+  max-width: 300px;
+  text-align: left;
+  padding: 30px;
+  border-radius: 3px;
+  margin: 15px;
+}
+
+@media screen and (max-width: 600px) 
+{
+     .contact, .zeiten
+     {
+          max-width: 100%;
+     }
+}
+
+#container_bottom
+{
+  text-align: center;
+  padding: 15px;  
+}
+#left-div_bottom
+{
+  display: inline-block;
+  max-width: 300px;
+  text-align: left;
+  padding: 30px;
+  border-radius: 3px;
+  margin: 15px;
+  vertical-align: top;
+}
+#right-div_bottom
+{
+  display: inline-block;
+  max-width: 300px;
+  text-align: left;
+  padding: 30px;
+  border-radius: 3px;
+  margin: 15px;
+}
+
+#map {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  max-width: 300px;
+  text-align: left;
+  padding: 30px;
+  border-radius: 3px;
+  margin: 15px;
+}
+
+
+table, th, td {
+	font-family: Calibri;
+	font-weight: bold;
+	margin: 10px;
+	
+}
